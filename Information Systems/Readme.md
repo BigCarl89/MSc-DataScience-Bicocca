@@ -2,7 +2,7 @@
 ### Corso di Information Systems
 #### Università degli Studi di Milano-Bicocca, a.a. 2020-2021
 
-### Decsrizione del progetto
+### Descrizione del progetto
 Rappresentazione dell'intero processo di conseguimento della laurea magistrale in Data Science presso l'Università degli Studi di Milano-Bicocca, dallo stage curriculare alla proclamazione, effettuata tramite un BUC (Business Use Case) e i diagrammi BPMN (Business Process Modeli and Notation) e CMMN (Case Management Model and Notation).
 
 ### Linguaggi e software utilizzati
