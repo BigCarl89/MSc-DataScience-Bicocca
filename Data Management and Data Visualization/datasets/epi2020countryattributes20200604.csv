@@ -1,0 +1,221 @@
+code,iso,country,region,include,SEA,sids,ldc,lldc,arableague,asean,comwealth,eu27,g20,franco,oecd,oei,oic,opec,emmrkt
+4,AFG,Afghanistan,Southern Asia,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+8,ALB,Albania,Eastern Europe,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+12,DZA,Algeria,Greater Middle East,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+20,AND,Andorra,Global West,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+660,AIA,Anguilla,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,ATG,Antigua and Barbuda,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+32,ARG,Argentina,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+51,ARM,Armenia,Former Soviet States,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+533,ABW,Aruba,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,AUS,Australia,Global West,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+40,AUT,Austria,Global West,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+31,AZE,Azerbaijan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+44,BHS,Bahamas,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+48,BHR,Bahrain,Greater Middle East,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+50,BGD,Bangladesh,Southern Asia,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+52,BRB,Barbados,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+112,BLR,Belarus,Former Soviet States,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,BEL,Belgium,Global West,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+84,BLZ,Belize,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+204,BEN,Benin,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+60,BMU,Bermuda,Global West,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,BTN,Bhutan,Southern Asia,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+68,BOL,Bolivia,Latin America & Caribbean,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+70,BIH,Bosnia and Herzegovina,Eastern Europe,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+76,BRA,Brazil,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+92,VGB,British Virgin Islands,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,BRN,Brunei Darussalam,Asia-Pacific,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0
+100,BGR,Bulgaria,Eastern Europe,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+108,BDI,Burundi,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+116,KHM,Cambodia,Asia-Pacific,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+124,CAN,Canada,Global West,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+136,CYM,Cayman Islands,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,CAF,Central African Republic,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+148,TCD,Chad,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+152,CHL,Chile,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1
+156,CHN,China,Asia-Pacific,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+170,COL,Colombia,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+174,COM,Comoros,Sub-Saharan Africa,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0
+184,COK,Cook Islands,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,CRI,Costa Rica,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+191,HRV,Croatia,Eastern Europe,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+192,CUB,Cuba,Latin America & Caribbean,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+531,CUW,Curacao,Latin America & Caribbean,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,CYP,Cyprus,Eastern Europe,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+203,CZE,Czech Republic,Eastern Europe,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+180,COD,Dem. Rep. Congo,Sub-Saharan Africa,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+208,DNK,Denmark,Global West,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+212,DMA,Dominica,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+214,DOM,Dominican Republic,Latin America & Caribbean,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+218,ECU,Ecuador,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+818,EGY,Egypt,Greater Middle East,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+222,SLV,El Salvador,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+232,ERI,Eritrea,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+233,EST,Estonia,Eastern Europe,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+748,SWZ,Eswatini,Sub-Saharan Africa,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+234,FRO,Faeroe Islands,Global West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,FLK,Falkland Islands,Latin America & Caribbean,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,FJI,Fiji,Asia-Pacific,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+246,FIN,Finland,Global West,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+250,FRA,France,Global West,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+258,PYF,French Polynesia,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+270,GMB,Gambia,Sub-Saharan Africa,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+268,GEO,Georgia,Former Soviet States,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,DEU,Germany,Global West,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+288,GHA,Ghana,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+300,GRC,Greece,Eastern Europe,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+304,GRL,Greenland,Global West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,GRD,Grenada,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+320,GTM,Guatemala,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+831,GGY,Guernsey,Global West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+328,GUY,Guyana,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+332,HTI,Haiti,Latin America & Caribbean,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+336,VAT,Holy See,Global West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,HND,Honduras,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+344,HKG,Hong Kong,Asia-Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,HUN,Hungary,Eastern Europe,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+352,ISL,Iceland,Global West,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+356,IND,India,Southern Asia,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+360,IDN,Indonesia,Asia-Pacific,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1
+364,IRN,Iran,Greater Middle East,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+368,IRQ,Iraq,Greater Middle East,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+372,IRL,Ireland,Global West,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+833,IMN,Isle of Man,Global West,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,ISR,Israel,Greater Middle East,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+380,ITA,Italy,Global West,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+388,JAM,Jamaica,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+392,JPN,Japan,Asia-Pacific,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+832,JEY,Jersey,Global West,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,JOR,Jordan,Greater Middle East,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+398,KAZ,Kazakhstan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+404,KEN,Kenya,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+296,KIR,Kiribati,Asia-Pacific,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+689,XKX,Kosovo,Eastern Europe,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,KWT,Kuwait,Greater Middle East,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+417,KGZ,Kyrgyzstan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+418,LAO,Laos,Asia-Pacific,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0
+428,LVA,Latvia,Eastern Europe,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+422,LBN,Lebanon,Greater Middle East,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+434,LBY,Libya,Greater Middle East,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+438,LIE,Liechtenstein,Global West,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,LTU,Lithuania,Eastern Europe,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+442,LUX,Luxembourg,Global West,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+446,MAC,Macao,Asia-Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+458,MYS,Malaysia,Asia-Pacific,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1
+462,MDV,Maldives,Southern Asia,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+466,MLI,Mali,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+470,MLT,Malta,Global West,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+584,MHL,Marshall Islands,Asia-Pacific,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+484,MEX,Mexico,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1
+583,FSM,Micronesia,Asia-Pacific,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,MDA,Moldova,Former Soviet States,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+492,MCO,Monaco,Global West,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+496,MNG,Mongolia,Asia-Pacific,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+499,MNE,Montenegro,Eastern Europe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,MAR,Morocco,Greater Middle East,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+104,MMR,Myanmar,Asia-Pacific,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+520,NRU,Nauru,Asia-Pacific,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+524,NPL,Nepal,Southern Asia,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+528,NLD,Netherlands,Global West,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+540,NCL,New Caledonia,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,NZL,New Zealand,Global West,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+558,NIC,Nicaragua,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+562,NER,Niger,Sub-Saharan Africa,1,1,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+570,NIU,Niue,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,PRK,North Korea,Asia-Pacific,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+807,MKD,North Macedonia,Eastern Europe,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+578,NOR,Norway,Global West,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+512,OMN,Oman,Greater Middle East,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+586,PAK,Pakistan,Southern Asia,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+585,PLW,Palau,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+591,PAN,Panama,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+598,PNG,Papua New Guinea,Asia-Pacific,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+600,PRY,Paraguay,Latin America & Caribbean,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+604,PER,Peru,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+608,PHL,Philippines,Asia-Pacific,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+616,POL,Poland,Eastern Europe,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+620,PRT,Portugal,Global West,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+634,QAT,Qatar,Greater Middle East,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+178,COG,Republic of Congo,Sub-Saharan Africa,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+642,ROU,Romania,Eastern Europe,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+643,RUS,Russia,Former Soviet States,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+646,RWA,Rwanda,Sub-Saharan Africa,1,1,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+652,BLM,Saint Barthelemy,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,KNA,Saint Kitts and Nevis,Latin America & Caribbean,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+662,LCA,Saint Lucia,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+882,WSM,Samoa,Asia-Pacific,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+674,SMR,San Marino,Global West,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+682,SAU,Saudi Arabia,Greater Middle East,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1
+686,SEN,Senegal,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+688,SRB,Serbia,Eastern Europe,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+702,SGP,Singapore,Asia-Pacific,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+534,SXM,Sint Maarten,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,SVK,Slovakia,Eastern Europe,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+705,SVN,Slovenia,Eastern Europe,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+90,SLB,Solomon Islands,Asia-Pacific,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+410,KOR,South Korea,Asia-Pacific,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+728,SSD,South Sudan,Sub-Saharan Africa,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+724,ESP,Spain,Global West,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0
+144,LKA,Sri Lanka,Southern Asia,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+275,PSE,State of Palestine,Greater Middle East,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+729,SDN,Sudan,Greater Middle East,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+740,SUR,Suriname,Latin America & Caribbean,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+752,SWE,Sweden,Global West,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+756,CHE,Switzerland,Global West,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+760,SYR,Syria,Greater Middle East,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+158,TWN,Taiwan,Asia-Pacific,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+762,TJK,Tajikistan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+764,THA,Thailand,Asia-Pacific,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+626,TLS,Timor-Leste,Asia-Pacific,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+768,TGO,Togo,Sub-Saharan Africa,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+776,TON,Tonga,Asia-Pacific,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+780,TTO,Trinidad and Tobago,Latin America & Caribbean,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+788,TUN,Tunisia,Greater Middle East,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+792,TUR,Turkey,Eastern Europe,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+795,TKM,Turkmenistan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+796,TCA,Turks and Caicos Islands,Latin America & Caribbean,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,TUV,Tuvalu,Asia-Pacific,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,1,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0
+804,UKR,Ukraine,Former Soviet States,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+784,ARE,United Arab Emirates,Greater Middle East,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+826,GBR,United Kingdom,Global West,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+840,USA,United States of America,Global West,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+858,URY,Uruguay,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+860,UZB,Uzbekistan,Former Soviet States,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+548,VUT,Vanuatu,Asia-Pacific,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0
+862,VEN,Venezuela,Latin America & Caribbean,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+704,VNM,Viet Nam,Asia-Pacific,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+876,WLF,Wallis and Futuna Islands,Asia-Pacific,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,ESH,Western Sahara,Greater Middle East,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,YEM,Yemen,Greater Middle East,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
