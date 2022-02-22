@@ -1,20 +1,30 @@
-Librerie e Versione Python  
-Python 3.7.12  
-nltk 3.2.5  
-re 2.2.1  
-pandas 1.1.5  
-numpy 1.19.5  
-requests 2.23.0  
-seaborn 0.11.2  
+# Possiamo individuare le Fake News?
+### Course of Text Mining and Search
+#### Università degli Studi di Milano-Bicocca, a.a. 2021-2022
+
+### Project Description
+Project work for the exam of Text Mining and Search, based on Kaggle dataset Fake-Real News.  
+This project is divided between two different tasks, both based on NLP:
+- Building a classificator aimed to predict if a text (from [Politifact](https://www.politifact.com/)), discusses whether a given article is fake news or not;
+- Create clusters of aforementioned texts based on the source.
 
 
-Dataset  
-Il dataset “New Task.csv” è stato scaricato al [seguente link](https://www.kaggle.com/techykajal/fakereal-news).  
-Il dataset “fakenews.csv”, invece, è stato ottenuto mediante scraping a partire dal precedente dataset.
+### Libraries and Python Version
+- Python 3.7.12  
+- nltk 3.2.5  
+- re 2.2.1  
+- pandas 1.1.5  
+- numpy 1.19.5  
+- requests 2.23.0  
+- seaborn 0.11.2  
 
 
-Authors:  
+### Dataset  
+The dataset can be found at this [link](https://www.kaggle.com/techykajal/fakereal-news).  
 
-Alberto Carlone  
+
+## Authors:  
+
+[**Alberto Carlone**](https://github.com/BigCarl89)  
 Davide Miori  
 Alice Ondei
