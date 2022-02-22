@@ -1,4 +1,4 @@
-# MSc-DataScience-Bicocca
+# Master Degree in Data Science-Università degli Studi di Milano-Bicocca
 All project works made during courses of Master Degree in Data Science in Università degli Studi di Milano-Bicocca
 
 In chronological order:
